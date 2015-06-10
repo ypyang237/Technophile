@@ -1,8 +1,9 @@
 # Technophile
 
-## JS Exercise on Multiple Inheritence
+## ECMAScript 5 Exercise on Multiple Inheritence
 
-Use previous OOP patterns to create the base classes in ECMAScript5.  
+[Multiple Inheritence in ECMAScript 5](https://slides.com/jasonsewell/multiple-inheritance)
+
 All module files will be saved to `lib/`.  
 Each `module` will `export` a single class.
 
